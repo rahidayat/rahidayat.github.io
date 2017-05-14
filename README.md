@@ -1,7 +1,7 @@
 # rahidayat.github.io
 
 ### About This Site
-Website ini merupakan website pribadi untuk belajar membuat website. 
+Website [rahidayat] (http://rahidayat.github.io) ini merupakan website pribadi yang berisi catatan selama belajar web developer. 
 
 ### Used Tags & Syntaxes
 Tag dan Sintax yang digunakan pada website ini antara lain:
