@@ -1,0 +1,22 @@
+#container {
+  background: #f47404;
+  text-align: center;
+  width: 20%;
+  margin: 20% 40%;
+  border-radius: 20px;
+}
+
+#txt {
+  font-family: 'digital-7-mono', 'Orbitron';
+  font-size: 70px;
+  padding: 5px;
+}
+
+#date {
+  color: white;
+}
+
+@font-face {
+  font-family: 'digital-7-mono';
+  src: url('font/digital-7-mono.ttf');
+}
